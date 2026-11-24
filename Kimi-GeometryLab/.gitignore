@@ -1,5 +1,9 @@
 /engines/*
 !/engines/README.md
+!/engines/PicoGK/
+!/engines/PicoGK_Examples/
+!/engines/LEAP71_ShapeKernel/
+!/engines/LEAP71_HelixHeatX/
 
 **/bin/
 **/obj/

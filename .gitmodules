@@ -1,0 +1,12 @@
+[submodule "Kimi-GeometryLab/engines/PicoGK"]
+	path = Kimi-GeometryLab/engines/PicoGK
+	url = https://github.com/leap71/PicoGK.git
+[submodule "Kimi-GeometryLab/engines/PicoGK_Examples"]
+	path = Kimi-GeometryLab/engines/PicoGK_Examples
+	url = https://github.com/leap71/PicoGK_Examples.git
+[submodule "Kimi-GeometryLab/engines/LEAP71_ShapeKernel"]
+	path = Kimi-GeometryLab/engines/LEAP71_ShapeKernel
+	url = https://github.com/leap71/LEAP71_ShapeKernel.git
+[submodule "Kimi-GeometryLab/engines/LEAP71_HelixHeatX"]
+	path = Kimi-GeometryLab/engines/LEAP71_HelixHeatX
+	url = https://github.com/leap71/LEAP71_HelixHeatX.git
